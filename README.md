@@ -34,3 +34,5 @@ Cette application Android permet aux utilisateurs de consulter une liste de pizz
    Exécutez la commande suivante pour cloner le projet sur votre machine locale :
    ```bash
    git clone https://github.com/elmahjoubisouka/TP_Pizza.git
+## Demonstration
+https://github.com/user-attachments/assets/b6b35fd0-9d80-4368-a9a8-41fe0493cf7c
