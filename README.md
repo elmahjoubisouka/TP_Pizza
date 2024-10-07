@@ -35,4 +35,5 @@ Cette application Android permet aux utilisateurs de consulter une liste de pizz
    ```bash
    git clone https://github.com/elmahjoubisouka/TP_Pizza.git
 ## Demonstration
-https://github.com/user-attachments/assets/b6b35fd0-9d80-4368-a9a8-41fe0493cf7c
+https://github.com/user-attachments/assets/dc630f7d-f2a4-474f-8f5f-de29faee42b8
+
